@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/css/main.823fdc9b.css",
-    "main.js": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/js/main.025d9c48.js",
-    "static/media/paper.png": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/media/paper.72afd64ffe741034e34c.png",
-    "static/media/scissors.png": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/media/scissors.3c0e68eb1a531511bec8.png",
-    "static/media/rock.png": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/media/rock.85534233d589de97b7b2.png",
-    "index.html": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/index.html",
-    "main.823fdc9b.css.map": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/css/main.823fdc9b.css.map",
-    "main.025d9c48.js.map": "/AndrewPankoProjects.github.io/Rock_Paper_Scissors/static/js/main.025d9c48.js.map"
+    "main.css": "/AndrewPankoProjects/Rock_Paper_Scissors/static/css/main.238de209.css",
+    "main.js": "/AndrewPankoProjects/Rock_Paper_Scissors/static/js/main.025d9c48.js",
+    "static/media/paper.png": "/AndrewPankoProjects/Rock_Paper_Scissors/static/media/paper.72afd64ffe741034e34c.png",
+    "static/media/scissors.png": "/AndrewPankoProjects/Rock_Paper_Scissors/static/media/scissors.3c0e68eb1a531511bec8.png",
+    "static/media/rock.png": "/AndrewPankoProjects/Rock_Paper_Scissors/static/media/rock.85534233d589de97b7b2.png",
+    "index.html": "/AndrewPankoProjects/Rock_Paper_Scissors/index.html",
+    "main.238de209.css.map": "/AndrewPankoProjects/Rock_Paper_Scissors/static/css/main.238de209.css.map",
+    "main.025d9c48.js.map": "/AndrewPankoProjects/Rock_Paper_Scissors/static/js/main.025d9c48.js.map"
   },
   "entrypoints": [
-    "static/css/main.823fdc9b.css",
+    "static/css/main.238de209.css",
     "static/js/main.025d9c48.js"
   ]
 }
