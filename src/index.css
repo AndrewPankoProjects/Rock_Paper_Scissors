@@ -11,3 +11,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+*{
+  text-align: center;
+}
+
+section{
+  margin-top: 20vh;
+}
+
+button {
+  padding: 140px;
+  margin: 10px;
+  border: none;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+.rock {
+  background-image: url('./images/rock.png');
+  background-repeat: no-repeat;
+}
+
+.paper {
+  background-image: url('./images/paper.png');
+  background-repeat: no-repeat;
+}
+
+.scissors {
+  background-image: url('./images/scissors.png');
+  background-repeat: no-repeat;
+}
